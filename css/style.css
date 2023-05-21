@@ -1,0 +1,17 @@
+#topo {
+    image-orientation: auto;
+}
+
+#menu {
+    background-color: rgb(123, 123, 160);
+    padding: 18px;
+    
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 15px;
+    text-align: justify;
+}
